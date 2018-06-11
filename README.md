@@ -1,0 +1,1 @@
+This is Mobile and Web Based Calendar Application running on a Rails Server
